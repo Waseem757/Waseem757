@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **Java, Spring Boot, Rest APIs, Automation Scripting, Katalon Studio**
+- 💬 Ask me about **Java, Spring Boot, Rest APIs, MySQL, Automation Scripting, Katalon Studio**
 
 - 📫 How to reach me **shaikwaseem757@gmail.com**
 
