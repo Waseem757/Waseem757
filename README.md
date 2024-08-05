@@ -6,11 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Java, Spring Boot, My Sql, Automation Scripting**
+- 🔭 I’m currently working on **Java, Spring Boot, JPA, My Sql, Microservices, Design Patterns, Data Structure and Algorithms **
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **Java, Spring Boot, Rest APIs, MySQL, Automation Scripting, Katalon Studio**
+- 💬 Ask me about **Languages and Frameworks: Java, J2EE, Spring 3.0, Spring MVC, Spring Boot, Hibernate, JPA, Rest API, Microservices, Kafka, Redis
+Data Base: MySQL, PostgreSQL, Oracle SQL Developer
+Developer Tools: Git, GitHub, Maven, Docker, Kubernetes, IntelliJ, Eclipse, VS Code, SonarQube.
+Others: Data structures and Algorithms, OOPs, Design Patterns, Unit testing, Junit, Mockito
+**
 
 - 📫 How to reach me **shaikwaseem757@gmail.com**
 
